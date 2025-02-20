@@ -45,13 +45,11 @@
 
 ### Demo en vivo
 <p>
-  Puedes probar la aplicación directamente aquí: <a href="https://tu-usuario.github.io/challenge-amigo-secreto">Demo en GitHub Pages</a>
+  Puedes probar la aplicación directamente aquí: <a href="https://luispena16.github.io/Challenge-Amigo-Secreto/">Demo en GitHub Pages</a>
 </p>
 
 ### Autores
-## Autores
-
-<img src="https://avatars.githubusercontent.com/u/90632802?s=400&u=351dd497981ad68f4ca76e0db28bbde7c7461636&v=4" width=115><br><sub>Luis Antonio Peña Cardoso</sub>
+[<img src="https://avatars.githubusercontent.com/u/90632802?s=400&u=351dd497981ad68f4ca76e0db28bbde7c7461636&v=4" width=115><br><sub>Luis Antonio Peña Cardoso</sub>](https://github.com/luisPena16)
 
 
 <h2 align="center">✨ ¡Únete al desafío!</h2>
